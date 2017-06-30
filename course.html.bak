@@ -62,7 +62,7 @@
 								<li><a  href="index.html" class="btn btn-primary btn-sm"><span>首页</span></a></li> 
 								<li><a  href="course.html" data-nav-section="services" class="btn btn-primary btn-sm"><span>产品介绍</span></a></li>
 								<li><a  href="course.html" data-nav-section="press" class="btn btn-primary btn-sm"><span>安装使用</span></a></li> 
-							  <li><a  target="_blank" href="vbox.irocn.com/fm/lastest.bin" class="btn btn-primary btn-sm"><span>固件下载</span></a></li> 
+							  <li><a  target="_blank" href="vbox.irocn.com/fm/lastest.bin" data-nav-section="press" class="btn btn-primary btn-sm"><span>固件下载</span></a></li> 
              	<!--
                 <li><a href="index.html"><span>首页</span></a></li>
                   <li class="active"><a href="course.html#" data-nav-section="services"><span>产品介绍</span></a></li>
